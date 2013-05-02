@@ -1,0 +1,17 @@
+--indent-classes
+--indent-switches
+--indent-namespaces
+--indent-labels
+--indent-preprocessor
+--indent-col1-comments
+--break-blocks
+--break-blocks=all
+--pad-oper
+--unpad-paren
+--delete-empty-lines
+--add-brackets
+--convert-tabs
+--indent=spaces=4
+--brackets=break
+--align-pointer=type
+--align-reference=type
